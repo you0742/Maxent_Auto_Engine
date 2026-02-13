@@ -84,4 +84,5 @@ python maxent_engine_refactor_v3.py
 ```
 
 ## Change Log
-1.5 Bug Fix
+v1.5 Bug Fix
+
