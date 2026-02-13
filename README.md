@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Field: Mammalogy](https://img.shields.io/badge/Field-Mammal%20Ecology-green.svg)]()
+[![DOI](https://zenodo.org/badge/1157078100.svg)](https://doi.org/10.5281/zenodo.18635083)
 
 **MaxEnt Auto Engine** is a high-performance Python-based automation framework designed for large-scale **Species Distribution Modeling (SDM)**. It streamlines the entire research pipeline—from baseline model training to future climate projections and ensemble statistical analysis—ensuring rigorous data integrity and computational stability.
 
