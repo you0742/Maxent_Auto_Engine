@@ -1,4 +1,4 @@
-# MaxEnt Auto Engine v1.5 [Build 260214]
+# MaxEnt Auto Engine v1.5.0 [Build 260214]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -85,4 +85,5 @@ python maxent_engine_refactor_v3.py
 
 ## Change Log
 v1.5 Bug Fix
+
 
